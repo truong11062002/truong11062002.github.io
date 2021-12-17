@@ -30,7 +30,7 @@ Thuan Trong Nguyen, Hai Le, **Truong Nguyen**, Thinh Le, Khanh Duong, Quyen Tran
 
 Guided Anchoring Cascade R-CNN: An Intensive Improvement of R-CNN in Vietnamese Document Detection<br/>
 Thuan Trong Nguyen, **Truong Nguyen**, Hai Le, Vy Le, Nguyen D. Vo, Khang Nguyen<br/>
-*The NAFOSTED Conference on Information and Computer Science (NICS) là một hội nghị quốc tế về điện tử, thông tin, khoa học máy tính và các lĩnh vực liên quan, kỹ thuật được tài trợ bởi IEEE (**NICS**)*<br/>
+*The NAFOSTED Conference on Information and Computer Science (**NICS**) is an International Conference on Electronics, Information, Computer Science and related areas, technical sponsored by IEEE*<br/>
 [[Request PDF]()]
 
 
