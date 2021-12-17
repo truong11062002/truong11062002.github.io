@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Doanh C. Bui"
+title: "Truong N. Nguyen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
