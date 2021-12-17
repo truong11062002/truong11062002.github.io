@@ -25,12 +25,12 @@ December 2020, Data Scientist Intern
 
 An Empirical Evaluation Of Feature Extraction For Vietnamese Fruit Classification<br/>
 Thuan Trong Nguyen, Hai Le, **Truong Nguyen**, Thinh Le, Khanh Duong, Quyen Tran, Vu Bui, Hop Nguyen, Nguyen D. Vo, Khang Nguyen<br/>
-* Vietnam Journal of Science and Technology (**VJST**)<br/>
+*Vietnam Journal of Science and Technology (**VJST**)*<br/>
 [[Request PDF]()]
 
 Guided Anchoring Cascade R-CNN: An Intensive Improvement of R-CNN in Vietnamese Document Detection<br/>
 Thuan Trong Nguyen, **Truong Nguyen**, Hai Le, Vy Le, Nguyen D. Vo, Khang Nguyen<br/>
-*Một số vấn đề chọn lọc của Công nghệ thông tin và Truyền thông tại Quảng Ninh, Việt Nam*<br/>
+*The NAFOSTED Conference on Information and Computer Science (NICS) là một hội nghị quốc tế về điện tử, thông tin, khoa học máy tính và các lĩnh vực liên quan, kỹ thuật được tài trợ bởi IEEE (**NICS**)*<br/>
 [[Request PDF]()]
 
 
