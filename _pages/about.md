@@ -19,7 +19,7 @@ December 2020, Data Scientist Intern
 ## <a name="edu"></a> Education
 
 ***University of Information Technology, VNU***<br/>
-2019 - expected 2023, Bachelor
+2020 - expected 2024, Bachelor
 
 ## <a name="publication"></a> Publications
 
@@ -41,9 +41,9 @@ Một phương pháp học sâu phát hiện cảm xúc gương mặt<br/>
 
 ## <a name="award"></a> Award
 
-* Top 15 Zalo AI Challenge (Traffic Sign Detection)
-* Semi-finalist of the Eureka Student Scientific Research Competition, organized by HoChiMinh Communist Youth Union of Ho Chi Minh city
+<!-- * Top 15 Zalo AI Challenge (Traffic Sign Detection)
+* Semi-finalist of the Eureka Student Scientific Research Competition, organized by HoChiMinh Communist Youth Union of Ho Chi Minh city -->
 
 ## <a name="courses"></a> Courses
 
-[Here](https://github.com/caodoanh2001/Certificates)
+[Here](https://www.linkedin.com/in/nguy%E1%BB%85n-nh%E1%BA%ADt-tr%C6%B0%E1%BB%9Dng-b943b6215/)
