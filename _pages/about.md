@@ -3,7 +3,7 @@ permalink: /
 title: "Truong N. Nguyen"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,24 +15,22 @@ I'm sophomore at University of Information Technology, Vietnam National Universi
 **Officience**<br/>
 December 2020, Data Scientist Intern
 
-
 ## <a name="edu"></a> Education
 
-***University of Information Technology, VNU***<br/>
+**_University of Information Technology, VNU_**<br/>
 2020 - expected 2024, Bachelor
 
 ## <a name="publication"></a> Publications
 
 An Empirical Evaluation Of Feature Extraction For Vietnamese Fruit Classification<br/>
 Thuan Trong Nguyen, Hai Le, **Truong Nguyen**, Thinh Le, Khanh Duong, Quyen Tran, Vu Bui, Hop Nguyen, Nguyen D. Vo, Khang Nguyen<br/>
-*Vietnam Journal of Science and Technology (**VJST**)*<br/>
+_Vietnam Journal of Science and Technology (**VJST**)_<br/>
 [[Request PDF]()]
 
 Guided Anchoring Cascade R-CNN: An Intensive Improvement of R-CNN in Vietnamese Document Detection<br/>
 Thuan Trong Nguyen, **Truong Nguyen**, Hai Le, Vy Le, Nguyen D. Vo, Khang Nguyen<br/>
-*The NAFOSTED Conference on Information and Computer Science (**NICS**) is an International Conference on Electronics, Information, Computer Science and related areas, technical sponsored by IEEE*<br/>
+_The NAFOSTED Conference on Information and Computer Science (**NICS**) is an International Conference on Electronics, Information, Computer Science and related areas, technical sponsored by IEEE_<br/>
 [[Request PDF](https://ieeexplore.ieee.org/document/9701510)]
-
 
 <!-- Một phương pháp học sâu phát hiện cảm xúc gương mặt<br/>
 **Bùi Cao Doanh**, Võ Duy Nguyên, Nguyễn Tấn Trần Minh Khang<br/>
@@ -46,4 +44,4 @@ Thuan Trong Nguyen, **Truong Nguyen**, Hai Le, Vy Le, Nguyen D. Vo, Khang Nguyen
 
 ## <a name="courses"></a> Courses
 
-[Here](https://www.linkedin.com/in/nguy%E1%BB%85n-nh%E1%BA%ADt-tr%C6%B0%E1%BB%9Dng-b943b6215/)
+[Here](linkedin.com/in/truongnhatnguyen)
