@@ -16,7 +16,10 @@ main:
     url: "#courses"
 
   - title: "Download CV"
-    url: "#cv"  
+    url: "#cv"
+  - title: "Blog posts"
+    url: "/year-archive/"
+
   # - title: "CV"
   #   url: /cv/
     
