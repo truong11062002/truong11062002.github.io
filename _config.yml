@@ -12,7 +12,7 @@ title_separator:
 name: &name "Truong Nhat Nguyen"
 description: &description "personal description"
 url: https://truong11062002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
+baseurl: "/blog" # the subpath of your site, e.g. "/blog"
 repository: "truong11062002/truong11062002.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
@@ -92,15 +92,15 @@ author:
   codepen:
   dribbble:
   flickr:
-  facebook: "https://www.facebook.com/truong11062002/"
+  facebook: "truong11062002"
   foursquare:
-  github: "https://github.com/truong11062002"
+  github: "truong11062002"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "linkedin.com/in/truongnhatnguyen"
+  linkedin: "truongnhatnguyen"
   orcid:
   pinterest:
   soundcloud:
