@@ -43,7 +43,7 @@ My goal is to deepen my understanding and skills in Machine Learning and apply t
     * The NAFOSTED Conference on Information and Computer Science (**NICS**) is an International Conference on Electronics, Information, Computer Science and related areas, technical sponsored by IEEE_<br/>
     * [[Request PDF](https://ieeexplore.ieee.org/document/9701510)]
 
-* An Empirical Evaluation Of Feature Extraction For Vietnamese Fruit Classification<br/>
+* **An Empirical Evaluation Of Feature Extraction For Vietnamese Fruit Classification**<br/>
     * Authors: Thuan Trong Nguyen, Hai Le, **Truong Nguyen**, Thinh Le, Khanh Duong, Quyen Tran, Vu Bui, Hop Nguyen, Nguyen D. Vo, Khang Nguyen<br/>
     * Journal: Vietnam Journal of Science and Technology (**VJST**)<br/>
     * [[Request PDF](https://vjs.ac.vn/index.php/jst/article/view/16299)]
