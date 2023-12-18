@@ -9,7 +9,7 @@
 locale: "en-US"
 title:
 title_separator:
-name: &name "Your Name"
+name: &name "Truong Nhat Nguyen"
 description: &description "personal description"
 url: https://truong11062002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 author:
   name: "Truong N. Nguyen"
   avatar: "profile.png"
-  bio: "Computer Vision, Deep Learning, Machine Learning, Object Detection"
+  bio: "Machine Learning Engineer"
   location: "Ho Chi Minh City, Vietnam"
   employer:
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
