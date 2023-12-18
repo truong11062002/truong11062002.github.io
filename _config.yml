@@ -78,23 +78,23 @@ analytics:
 
 # Site Author
 author:
-  name: "Truong N. Nguyen"
-  avatar: "profile.png"
+  name: "Truong Nhat Nguyen"
+  avatar: "truong1.jpg"
   bio: "Machine Learning Engineer"
   location: "Ho Chi Minh City, Vietnam"
   employer:
-  pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: # "http://yourfullgooglescholarurl.com"
-  email: "20522087@gm.uit.edu.vn"
-  researchgate: #"Doanh-Bui-4"
+  pubmed: 
+  googlescholar: https://scholar.google.com/citations?user=yZ89wucAAAAJ&hl=vi
+  email: "iamnhattruong.11062002@gmail.com"
+  researchgate: 
   uri:
   bitbucket:
   codepen:
   dribbble:
   flickr:
-  facebook: "truong11062002"
+  facebook: "https://www.facebook.com/truong11062002/"
   foursquare:
-  github: "truong11062002"
+  github: "https://github.com/truong11062002"
   google_plus:
   keybase:
   instagram:
