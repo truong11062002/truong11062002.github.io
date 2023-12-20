@@ -22,8 +22,8 @@ My goal is to deepen my understanding and skills in Machine Learning and apply t
 
 **_University of Information Technology, VNU_**<br/>
 
-* Aug 2020 - Nov 2023, Bachelor's degress, Computer Science, in-major GPA: 8.52/10
-* Thesis: Deep learning-based Object Detection in Document Images. Grade: 9.8/10.
+* Aug 2020 - Nov 2023, Bachelor's degree, Computer Science, **in-major GPA**: 8.52/10
+* Thesis: Deep learning-based Object Detection in Document Images. **Grade**: 9.8/10.
 
 ## <a name="publication"></a> Publications
 
