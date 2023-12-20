@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-As a bachelor's degree in computer science at UIT, where I have been involved in several research projects and publications related to object detection and classification. As a research assistant at UIT-Together Research Group, I have contributed to the co-authorship of two international papers, one of which introduced a novel Vietnamese fruit image dataset and a SVM classification model. I have also obtained multiple certifications from Kaggle on Machine Learning, Data Visualization, and SQL.
-
-My goal is to deepen my understanding and skills in Machine Learning and apply them into real-life, and to explore new and innovative ways to leverage them for social good. I am eager to learn from experts and peers in the field, and to collaborate with diverse and talented teams.
+My goal is to deepen my understanding and skills in machine Learning and apply them into real-life, and to explore new and innovative ways to leverage them for social good. I am eager to learn from experts and peers in the field, and to collaborate with diverse and talented teams.
 
 ## <a name="exp"></a> Experience
 
