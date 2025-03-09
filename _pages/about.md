@@ -67,4 +67,4 @@ My goal is to deepen my understanding and skills in machine Learning and apply t
 
 ## <a name="cv"></a> Download my CV
 
-[CV](https://drive.google.com/file/d/1ZQaKv229UaYYfGIiplW4gYVxXPFXndkV/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1U33SmS4cUdyz3lpwEt6IzuGHUjKdPvoZ/view?usp=sharing)
